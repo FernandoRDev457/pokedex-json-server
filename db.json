@@ -1,0 +1,466 @@
+{
+  "pokemon": [
+    {
+      "nome": "Ivysaur",
+      "tipo": "Grama",
+      "descricao": "A semente cresce e floresce conforme evolui.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Venusaur",
+      "tipo": "Grama",
+      "descricao": "Possui uma grande flor que absorve energia solar.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+    },
+    {
+      "id": 4,
+      "nome": "Charmander",
+      "tipo": "Fogo",
+      "descricao": "A chama na cauda indica sua vitalidade.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+    },
+    {
+      "id": 5,
+      "nome": "Charmeleon",
+      "tipo": "Fogo",
+      "descricao": "Mais agressivo, busca constantemente batalhas.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+    },
+    {
+      "id": 6,
+      "nome": "Charizard",
+      "tipo": "Fogo",
+      "descricao": "Cospe fogo intenso capaz de derreter rochas.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+    },
+    {
+      "id": 7,
+      "nome": "Squirtle",
+      "tipo": "Água",
+      "descricao": "Usa sua carapaça para se proteger.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+    },
+    {
+      "id": 8,
+      "nome": "Wartortle",
+      "tipo": "Água",
+      "descricao": "Conhecido por sua longa cauda peluda.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+    },
+    {
+      "id": 9,
+      "nome": "Blastoise",
+      "tipo": "Água",
+      "descricao": "Possui canhões de água extremamente potentes.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+    },
+    {
+      "id": 10,
+      "nome": "Caterpie",
+      "tipo": "Inseto",
+      "descricao": "Pequeno e fácil de capturar.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
+    },
+    {
+      "id": 11,
+      "nome": "Metapod",
+      "tipo": "Inseto",
+      "descricao": "Fica imóvel enquanto evolui.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+    },
+    {
+      "id": 12,
+      "nome": "Butterfree",
+      "tipo": "Inseto",
+      "descricao": "Espalha pólen com suas asas.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+    },
+    {
+      "id": 13,
+      "nome": "Weedle",
+      "tipo": "Inseto",
+      "descricao": "Possui um ferrão venenoso.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+    },
+    {
+      "id": 14,
+      "nome": "Kakuna",
+      "tipo": "Inseto",
+      "descricao": "Quase não se move enquanto evolui.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
+    },
+    {
+      "id": 15,
+      "nome": "Beedrill",
+      "tipo": "Inseto",
+      "descricao": "Ataca com ferrões afiados.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
+    },
+    {
+      "id": 16,
+      "nome": "Pidgey",
+      "tipo": "Normal",
+      "descricao": "Ave comum e dócil.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
+    },
+    {
+      "id": 17,
+      "nome": "Pidgeotto",
+      "tipo": "Normal",
+      "descricao": "Defende seu território ferozmente.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
+    },
+    {
+      "id": 18,
+      "nome": "Pidgeot",
+      "tipo": "Normal",
+      "descricao": "Voa a velocidades incríveis.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
+    },
+    {
+      "id": 19,
+      "nome": "Rattata",
+      "tipo": "Normal",
+      "descricao": "Rápido e persistente.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
+    },
+    {
+      "id": 20,
+      "nome": "Raticate",
+      "tipo": "Normal",
+      "descricao": "Dentes fortes que nunca param de crescer.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
+    },
+    {
+      "id": 21,
+      "nome": "Spearow",
+      "tipo": "Normal",
+      "descricao": "Pequeno, mas muito agressivo.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png"
+    },
+    {
+      "id": 22,
+      "nome": "Fearow",
+      "tipo": "Normal",
+      "descricao": "Voa grandes distâncias sem descanso.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png"
+    },
+    {
+      "id": 23,
+      "nome": "Ekans",
+      "tipo": "Venenoso",
+      "descricao": "Serpente que se move silenciosamente.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png"
+    },
+    {
+      "id": 24,
+      "nome": "Arbok",
+      "tipo": "Venenoso",
+      "descricao": "Seu padrão corporal intimida inimigos.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
+    },
+    {
+      "id": 25,
+      "nome": "Pikachu",
+      "tipo": "Elétrico",
+      "descricao": "Armazena eletricidade nas bochechas.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+    },
+    {
+      "id": 26,
+      "nome": "Raichu",
+      "tipo": "Elétrico",
+      "descricao": "Libera fortes descargas elétricas.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+    },
+    {
+      "id": 27,
+      "nome": "Sandshrew",
+      "tipo": "Terra",
+      "descricao": "Se enrola para se proteger.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png"
+    },
+    {
+      "id": 28,
+      "nome": "Sandslash",
+      "tipo": "Terra",
+      "descricao": "Garras afiadas para ataque.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png"
+    },
+    {
+      "id": 29,
+      "nome": "Nidoran♀",
+      "tipo": "Venenoso",
+      "descricao": "Pequeno e cauteloso.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png"
+    },
+    {
+      "id": 30,
+      "nome": "Nidorina",
+      "tipo": "Venenoso",
+      "descricao": "Mais defensiva que agressiva.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
+    },
+    {
+      "id": 31,
+      "nome": "Nidoqueen",
+      "tipo": "Terra",
+      "descricao": "Forte e protetora.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png"
+    },
+    {
+      "id": 32,
+      "nome": "Nidoran♂",
+      "tipo": "Venenoso",
+      "descricao": "Mais agressivo que a fêmea.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png"
+    },
+    {
+      "id": 33,
+      "nome": "Nidorino",
+      "tipo": "Venenoso",
+      "descricao": "Ataca com seu chifre.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png"
+    },
+    {
+      "id": 34,
+      "nome": "Nidoking",
+      "tipo": "Terra",
+      "descricao": "Extremamente poderoso.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png"
+    },
+    {
+      "id": 35,
+      "nome": "Clefairy",
+      "tipo": "Fada",
+      "descricao": "Raro e tímido.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png"
+    },
+    {
+      "id": 36,
+      "nome": "Clefable",
+      "tipo": "Fada",
+      "descricao": "Sensível à luz lunar.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png"
+    },
+    {
+      "id": 37,
+      "nome": "Vulpix",
+      "tipo": "Fogo",
+      "descricao": "Possui várias caudas.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png"
+    },
+    {
+      "id": 38,
+      "nome": "Ninetales",
+      "tipo": "Fogo",
+      "descricao": "Lendário por sua inteligência.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
+    },
+    {
+      "id": 39,
+      "nome": "Jigglypuff",
+      "tipo": "Normal",
+      "descricao": "Canta para fazer inimigos dormirem.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
+    },
+    {
+      "id": 40,
+      "nome": "Wigglytuff",
+      "tipo": "Normal",
+      "descricao": "Corpo macio e elástico.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png"
+    },
+    {
+      "id": 41,
+      "nome": "Zubat",
+      "tipo": "Venenoso",
+      "descricao": "Vive em cavernas escuras.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png"
+    },
+    {
+      "id": 42,
+      "nome": "Golbat",
+      "tipo": "Venenoso",
+      "descricao": "Ataca sugando sangue.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png"
+    },
+    {
+      "id": 43,
+      "nome": "Oddish",
+      "tipo": "Grama",
+      "descricao": "Enterra-se durante o dia.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
+    },
+    {
+      "id": 44,
+      "nome": "Gloom",
+      "tipo": "Grama",
+      "descricao": "Libera odor forte.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png"
+    },
+    {
+      "id": 45,
+      "nome": "Vileplume",
+      "tipo": "Grama",
+      "descricao": "Flor gigante venenosa.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png"
+    },
+    {
+      "id": 46,
+      "nome": "Paras",
+      "tipo": "Inseto",
+      "descricao": "Controlado por fungos.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png"
+    },
+    {
+      "id": 47,
+      "nome": "Parasect",
+      "tipo": "Inseto",
+      "descricao": "Totalmente dominado pelo fungo.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png"
+    },
+    {
+      "id": 48,
+      "nome": "Venonat",
+      "tipo": "Inseto",
+      "descricao": "Possui olhos grandes e sensíveis.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png"
+    },
+    {
+      "id": 49,
+      "nome": "Venomoth",
+      "tipo": "Inseto",
+      "descricao": "Asas cobertas de pó venenoso.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png"
+    },
+    {
+      "id": 50,
+      "nome": "Diglett",
+      "tipo": "Terra",
+      "descricao": "Vive enterrado.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png"
+    },
+    {
+      "id": 51,
+      "nome": "Dugtrio",
+      "tipo": "Terra",
+      "descricao": "Três Digletts juntos.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png"
+    },
+    {
+      "id": 52,
+      "nome": "Meowth",
+      "tipo": "Normal",
+      "descricao": "Ama objetos brilhantes.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"
+    },
+    {
+      "id": 53,
+      "nome": "Persian",
+      "tipo": "Normal",
+      "descricao": "Elegante e ágil.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png"
+    },
+    {
+      "id": 54,
+      "nome": "Psyduck",
+      "tipo": "Água",
+      "descricao": "Sofre de dores de cabeça constantes.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png"
+    },
+    {
+      "id": 55,
+      "nome": "Golduck",
+      "tipo": "Água",
+      "descricao": "Nada com grande habilidade.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png"
+    },
+    {
+      "id": 56,
+      "nome": "Mankey",
+      "tipo": "Lutador",
+      "descricao": "Muito temperamental.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png"
+    },
+    {
+      "id": 57,
+      "nome": "Primeape",
+      "tipo": "Lutador",
+      "descricao": "Sempre furioso.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png"
+    },
+    {
+      "id": 58,
+      "nome": "Growlithe",
+      "tipo": "Fogo",
+      "descricao": "Leal e protetor.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png"
+    },
+    {
+      "id": 59,
+      "nome": "Arcanine",
+      "tipo": "Fogo",
+      "descricao": "Conhecido por sua velocidade.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png"
+    },
+    {
+      "id": 60,
+      "nome": "Poliwag",
+      "tipo": "Água",
+      "descricao": "Corpo com padrão espiral.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png"
+    },
+    {
+      "id": 61,
+      "nome": "Poliwhirl",
+      "tipo": "Água",
+      "descricao": "Melhor nadador.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png"
+    },
+    {
+      "id": 62,
+      "nome": "Poliwrath",
+      "tipo": "Água",
+      "descricao": "Forte e resistente.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png"
+    },
+    {
+      "id": 63,
+      "nome": "Abra",
+      "tipo": "Psíquico",
+      "descricao": "Teleporta-se para fugir.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png"
+    },
+    {
+      "id": 64,
+      "nome": "Kadabra",
+      "tipo": "Psíquico",
+      "descricao": "Possui grande poder mental.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png"
+    },
+    {
+      "id": 65,
+      "nome": "Alakazam",
+      "tipo": "Psíquico",
+      "descricao": "QI extremamente alto.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
+    },
+    {
+      "id": 66,
+      "nome": "Machop",
+      "tipo": "Lutador",
+      "descricao": "Treina constantemente sua força.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png"
+    },
+    {
+      "nome": "Shellder",
+      "tipo": "Água",
+      "descricao": "Shellder é um Pokémon molusco bivalve envolto por uma concha bivalve espinhosa de cor azul-violeta.",
+      "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+      "id": 67
+    }
+  ]
+}
